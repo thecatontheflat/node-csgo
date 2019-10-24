@@ -8,7 +8,7 @@
     "protobufjs": "^5.0.1",
     "readline-sync": "^1.4.9",
     "steam": "^1.4.0",
-    "steam-resources": "github:seishun/node-steam-resources"
+    "steam-resources": "github:thecatontheflat/node-steam-resources"
   },
   "devDependencies": {
     "mocha": "5.2.0",
